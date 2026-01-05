@@ -11,16 +11,16 @@
 
   // Default names from different continents
   const DEFAULT_NAMES = [
-    "💥Amara",
-    "💣Chen",
-    "💅Diego",
-    "🔨Elena",
-    "🦣Hassan",
-    "🧪Fiona",
-    "🔐Genji",
-    "🤖Isla",
-    "✨Jamal",
-    "🦾Keiko",
+    "💥 Organise something with Amara",
+    "💣 Organise something with Chen",
+    "💅 Organise something with Diego",
+    "🔨 Organise something with Elena",
+    "🦣 Organise something with Hassan",
+    "🧪 Organise something with Fiona",
+    "🔐 Organise something with Genji",
+    "🤖 Organise something with Isla",
+    "✨ Organise something with Jamal",
+    "🦾 Organise something with Keiko",
   ];
 
   // State
