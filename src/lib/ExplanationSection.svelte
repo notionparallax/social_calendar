@@ -56,8 +56,9 @@
       tasks
     </li>
     <li>
-      <strong>Import to Todoist:</strong> Paste into Todoist Quick Add (one line
-      at a time or bulk paste if supported)
+      <strong>Import to Todoist:</strong> Paste into Todoist task adding window as
+      if you were making a single task. It'll recognise that there are multiple lines
+      and create separate tasks for each.
     </li>
     <li>
       <strong>Tip:</strong> Mark all tasks as completed on first import to start
