@@ -72,8 +72,7 @@
       {scheduleText}
     </div>
     <p class="stats">
-      {filledCount} of 52 weeks scheduled · ~{totalMeetings} total meetings this
-      year
+      {filledCount} of 52 weeks scheduled · ~{totalMeetings} total things this year
     </p>
   </div>
 {/if}

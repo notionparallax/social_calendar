@@ -154,7 +154,7 @@
 
 <main>
   <header>
-    <h1>Social Spacing Calculator</h1>
+    <h1>Spacing Calculator</h1>
     <p class="tagline">
       Sustainable intervals for seeing people and doing things
     </p>
