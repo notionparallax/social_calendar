@@ -77,7 +77,7 @@
         lineNumbers(),
         EditorView.theme({
           "&": {
-            height: "100%",
+            height: "85%",
             minHeight: "300px",
             fontSize: "14px",
           },
